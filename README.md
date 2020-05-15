@@ -1,0 +1,2 @@
+# solo
+personal learning
